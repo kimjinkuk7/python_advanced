@@ -12,7 +12,7 @@ def func(x, y):
 
 add = func
 print(add(3, 4))
-
+ 
 # 2) 리스트(튜플, 딕셔너리 등)에 할당 가능
 def mul(x, y):
     return x*y
